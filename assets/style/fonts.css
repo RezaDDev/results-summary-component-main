@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Hanken;
+    font-weight: 500;
+    src: url(./../fonts/HankenGrotesk-Medium.ttf);
+}
+@font-face {
+    font-family: Hanken;
+    font-weight: 700;
+    src: url(./../fonts/HankenGrotesk-Bold.ttf);
+}
+@font-face {
+    font-family: Hanken;
+    font-weight: 800;
+    src: url(./../fonts/HankenGrotesk-ExtraBold.ttf);
+}
